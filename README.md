@@ -14,7 +14,7 @@ An interface reply created using ReactJS by Vinnicius Gomes with :blue_heart: an
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vinniciusgomes/facebook-ui?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Vinnicius Gomes" src="https://img.shields.io/badge/made%20by-Vinnicius%Gomes-%2304D361">
+    <img alt="Made by Vinnicius Gomes" src="https://img.shields.io/badge/made%20by-Vinnicius%20Gomes-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
